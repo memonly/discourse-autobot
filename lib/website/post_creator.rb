@@ -21,7 +21,7 @@ module Autobot
       end
 
       def display_featured_link?
-        true
+        false
       end
 
       def source_url
